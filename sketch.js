@@ -3,14 +3,14 @@ var clock;
 var sampleFactor = 0.15;
 
 function preload() {
-    // font = loadFont("AvenirNextLTPro-Demi.otf");
-    // font = loadFont("SpicyRice-Regular.ttf");
-    // font = loadFont("PatrickHand-Regular.ttf");
-    // font = loadFont("ArchivoBlack-Regular.ttf");
-    font = loadFont("BreeSerif-Regular.ttf");
-    // font = loadFont("FredokaOne-Regular.ttf");
-    // font = loadFont("Rokkitt-Black.ttf");
-    // font = loadFont("Rokkitt-Bold.ttf");
+    // font = loadFont("fonts/AvenirNextLTPro-Demi.otf");
+    // font = loadFont("fonts/SpicyRice-Regular.ttf");
+    // font = loadFont("fonts/PatrickHand-Regular.ttf");
+    // font = loadFont("fonts/ArchivoBlack-Regular.ttf");
+    font = loadFont("fonts/BreeSerif-Regular.ttf");
+    // font = loadFont("fonts/FredokaOne-Regular.ttf");
+    // font = loadFont("fonts/Rokkitt-Black.ttf");
+    // font = loadFont("fonts/Rokkitt-Bold.ttf");
 }
 
 function setup() {
